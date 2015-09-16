@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說不增不減經
+#+DATE: 2015-08-30 20:16:21.793637
+#+PROPERTY: JUAN 0
