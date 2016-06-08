@@ -1,22 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:21.614296
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:18
 #+TITLE: 佛說不增不減經
 #+PROPERTY: CBETA_ID T16n0668
 #+PROPERTY: ID KR6i0325
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 668
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0325_T_000-0466a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0325_T_001-0466a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.668¶
-
- 《佛說不增不減經》¶
+No. 668¶
+《佛說不增不減經》¶
 ¶
-元魏北印度三藏菩提流支譯¶
+元魏北印度＝天竺【元】【明】，〔北印度三藏〕－【宋】【宮】〔北印度三藏〕－【宋】【宮】，北印度＝天竺【元】【明】北印度三藏菩提流＝留【三】流＝留【宋】【元】【明】流支譯北印度三藏菩提流支譯¶
 
 如是我聞：
 
