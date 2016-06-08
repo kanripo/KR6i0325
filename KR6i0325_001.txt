@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:22.198282
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:19
 #+TITLE: 佛說不增不減經
 #+PROPERTY: CBETA_ID T16n0668
 #+PROPERTY: ID KR6i0325
